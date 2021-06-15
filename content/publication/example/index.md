@@ -76,6 +76,8 @@ projects:
 slides: example
 ---
 
+Let's have coffee in the morning.
+
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
