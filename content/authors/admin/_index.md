@@ -11,7 +11,7 @@ role: PhD student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Victoria University
-  url: https://www.stanford.edu/
+  url: https://ecs.wgtn.ac.nz/Main/GradRohitDuggal
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are inclined with low-temperature geothermal energy generation in oil and gas fields.
@@ -28,7 +28,7 @@ education:
   - course: Masters in Mechanical Engineering
     institution: Lovely Professional University
     year: 2017
-  - course: BTech in Mechanical Engineering
+  - course: Bachelor of Technology in Mechanical Engineering
     institution: GZS Punjab Technical University Campus
     year: 2015
 
@@ -52,6 +52,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rohitfzr/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7505-3727
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
