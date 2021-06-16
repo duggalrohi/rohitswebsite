@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: ""
-  icon: ai_orcid
+  icon: orcid
   icon_pack: ai
   name: Research Provenance
 - description: 100%
