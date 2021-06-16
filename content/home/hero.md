@@ -3,10 +3,10 @@ design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "20px", "0"]
-    
+
 widget: hero
 headless: true  # This file represents a page section.
-# Order that this section appears on the page.
+weight: 5 # Order that this section appears on the page.
 
 # ... Put Your Section Options Here (title etc.) ...
 
