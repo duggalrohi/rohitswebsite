@@ -27,16 +27,16 @@ hero_media: 'cover_img.jpg'
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
-cta:
-  url: 'https://wowchemy.com'
-  label: Get Started
-  icon_pack: fas
-  icon: download
-cta_alt:
-  url: 'https://wowchemy.com'
-  label: View Documentation
+# cta:
+#   url: 'https://wowchemy.com'
+#   label: Get Started
+#   icon_pack: fas
+#   icon: download
+# cta_alt:
+#   url: 'https://wowchemy.com'
+#   label: View Documentation
 
-# Note. An optional note to show underneath the links.
-cta_note:
-  label: ''
----
+# # Note. An optional note to show underneath the links.
+# cta_note:
+#   label: ''
+# ---
