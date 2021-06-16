@@ -1,7 +1,7 @@
 ---
 active: true
 widget: hero
-headless: true  # This file represents a page section.
+headless: false  # This file represents a page section.
 weight: 5 # Order that this section appears on the page.
 
 design:
@@ -11,7 +11,7 @@ design:
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0.6
     #  Options are `cover` (default), `contain`, or `actual` size.
-    image_size: contain
+    image_size: cover
     # Options include `left`, `center` (default), or `right`.
     image_position: center
     # Use a fun parallax-like fixed background effect on desktop? true/false
